@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="f[https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/main/assets/gato.gif](https://github.com/lorenaishikawa/lorenaishikawa/blob/main/assets/cat.gif?raw=true)https://github.com/lorenaishikawa/lorenaishikawa/blob/main/assets/cat.gif?raw=true" width="300" alt="gato"/>
+[  <img src="f[https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/main/assets/gato.gif](https://github.com/lorenaishikawa/lorenaishikawa/blob/main/assets/cat.gif?raw=true)https://github.com/lorenaishikawa/lorenaishikawa/blob/main/assets/cat.gif?raw=true" width="300" alt="gato"/>
 </p>
 
 
