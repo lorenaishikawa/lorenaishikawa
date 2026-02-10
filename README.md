@@ -1,9 +1,9 @@
 # 🌸 Oieeeee! 🌸
 
-<p align="center">
-  <img src="ativos/gato.gif" width="300" alt="Gatinho fofo"/>
-</p>
 
+<p align="center">
+  <img src="assets/gato.gif" width="300" alt="Gatinho fofo"/>
+</p>
 
 
 
