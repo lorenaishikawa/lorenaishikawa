@@ -48,8 +48,3 @@ Explorar diferentes linguagens e ferramentas
 
 ---
 
-##  Minhas contribuições
-
-<p align="center">
-  <img src="https://github.com/lorenaishikawa/lorenaishikawa/blob/output/snake.svg" alt="Snake animation"/>
-</p>
