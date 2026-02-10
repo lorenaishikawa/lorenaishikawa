@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/gato.gif" width="300" alt="Gatinho fofo"/>
+  <img src="f[https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/main/assets/gato.gi](https://github.com/lorenaishikawa/lorenaishikawa/blob/main/assets/cat.gif?raw=true)https://github.com/lorenaishikawa/lorenaishikawa/blob/main/assets/cat.gif?raw=true" width="300" alt="Gatinho fofo"/>
 </p>
 
 
