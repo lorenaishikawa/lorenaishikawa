@@ -1,7 +1,7 @@
 # 🌸 Oieeeee! 🌸
 
 <p align="center">
-  <img src="assets/gatinho.gif" width="300" alt="Gatinho fofo"/>
+  <img src="assets/gato.gif" width="300" alt=":D"/>
 </p>
 
 
