@@ -1,8 +1,9 @@
 # 🌸 Oieeeee! 🌸
 
 <p align="center">
-  <img src="assets/gato.gif" width="300" alt=":D"/>
+  <img src="ativos/gif%20de%20gato.gif" width="300" alt="Gatinho fofo"/>
 </p>
+
 
 
 ✨ Iniciante em programação  
