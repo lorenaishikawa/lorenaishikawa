@@ -4,6 +4,7 @@
   <img src="assets/gatinho.gif" width="300" alt="Gatinho fofo"/>
 </p>
 
+
 ✨ Iniciante em programação  
 
 ✨ Gosto de aprender e crescer a cada dia  
@@ -11,6 +12,7 @@
 ✨ Cursando **Ciências da Computação** 🎓
 
 ✨ Atualmente trabalho com **Suporte N1**  
+
  
 
 ---
