@@ -1,14 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=78&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=104&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img height="201" src="https://i.pinimg.com/originals/ad/39/23/ad392331891ce8cf6ceba9e43ea8c10f.gif"  />
-</div>
+<h1 align="left">Oie!  💗</h1>
 
 ###
 
@@ -21,11 +17,13 @@
 
 ###
 
-<h3 align="left">Oie!  💗</h3>
+<h5 align="left">✨ Iniciante em programação <br><br>✨Cursando Ciências da Computação <br><br>✨ Atualmente trabalho com Suporte N1</h5>
 
 ###
 
-<h5 align="left">✨ Iniciante em programação <br><br>✨Cursando Ciências da Computação <br><br>✨ Atualmente trabalho com Suporte N1</h5>
+<br clear="both">
+
+<img align="left" height="147" src="https://i.pinimg.com/originals/ad/39/23/ad392331891ce8cf6ceba9e43ea8c10f.gif"  />
 
 ###
 
@@ -73,7 +71,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorenaishikawa/lorenaishikawa/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
