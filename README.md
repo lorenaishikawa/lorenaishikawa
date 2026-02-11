@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Oieee! meu nome é Lorena  💗 <></h1>
+<h1 align="left">Oie!  💗</h1>
 
 ###
 
@@ -37,10 +37,6 @@
 
 ###
 
-<p align="left">Quero seguir como Desenvolvedora Fullstack ! :D</p>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=1&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
@@ -65,6 +61,10 @@
 
 ###
 
+<p align="left">Quero seguir como Desenvolvedora Fullstack ! :D</p>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=1&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
@@ -81,6 +81,12 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=94&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/23/66/cd/2366cd1023ffb7c12b813a6fd0400265.gif"  />
 </div>
 
 ###
