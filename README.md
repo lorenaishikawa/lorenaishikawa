@@ -51,22 +51,22 @@
 
 <br clear="both">
 
-<img align="left" height="140" src="https://i.pinimg.com/originals/ad/39/23/ad392331891ce8cf6ceba9e43ea8c10f.gif"  />
+<img align="left" height="141" src="https://i.pinimg.com/originals/ad/39/23/ad392331891ce8cf6ceba9e43ea8c10f.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="git logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="47" alt="github logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="47" alt="csharp logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css logo"  />
 </div>
 
 ###
